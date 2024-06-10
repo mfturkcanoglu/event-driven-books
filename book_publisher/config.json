@@ -1,0 +1,6 @@
+{
+  "port": ":8001",
+  "kafka": {
+    "book_publish_topic": "book.publish"
+  }
+}
